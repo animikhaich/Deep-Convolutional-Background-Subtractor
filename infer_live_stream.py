@@ -3,7 +3,7 @@ import os
 os.environ["TF_FORCE_GPU_ALLOW_GROWTH"] = "true"
 import tensorflow as tf
 import numpy as np
-import cv2
+from cv2 import cv2
 
 
 model = tf.keras.models.load_model("weights.h5")
