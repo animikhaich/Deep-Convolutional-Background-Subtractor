@@ -84,9 +84,9 @@ The notebooks do not render properly on GitHub, hence please use the [nbviewer](
 
 ## Results
 
-- There are two sets of results:
-  - **First:** Results from the Validation Set of the COCO Dataset (after preprocessing). This contains data from classes which the model has already seen before (present in the training set). For example, dog, human, car, cup, etc.
-  - **Second:** The most interesting results are of that class which the model has never seen before (not present in training set). To test that out, I collected a few variety of images of guns from Google Image, and passed them through the network for inference.
+There are two sets of results:
+- **First:** Results from the Validation Set of the COCO Dataset (after preprocessing). This contains data from classes which the model has already seen before (present in the training set). For example, dog, human, car, cup, etc.
+- **Second:** The most interesting results are of that class which the model has never seen before (not present in training set). To test that out, I collected a few variety of images of guns from Google Image, and passed them through the network for inference.
 
 I'll let the results speak for itself.
 
