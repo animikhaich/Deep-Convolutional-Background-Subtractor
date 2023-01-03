@@ -10,7 +10,7 @@
 <p align="center">
     <img src="assets/icon.png" alt="Logo" width="150" height="150">
 
-  <h2 align="center">Any Object Background Subtractor (Unseen Object Segmentation)</h2>
+  <h2 align="center">Deep Convolutional Background Subtractor</h2>
 
   <p align="center">
     A Lightweight Custom Foreground Segmentation Model Trained on Modified COCO.
